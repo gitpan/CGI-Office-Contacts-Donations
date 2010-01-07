@@ -14,7 +14,7 @@ has donations => (is => 'rw', isa => 'CGI::Office::Contacts::Donations::View::Do
 
 use namespace::autoclean;
 
-our $VERSION = '1.00';
+our $VERSION = '1.01';
 
 # -----------------------------------------------
 

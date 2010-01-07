@@ -16,64 +16,64 @@ name: CGI-Office-Contacts-Donations
 provides:
   CGI::Office::Contacts::Donations:
     file: lib/CGI/Office/Contacts/Donations.pm
-    version: 1.00
+    version: 1.01
   CGI::Office::Contacts::Donations::Controller:
     file: lib/CGI/Office/Contacts/Donations/Controller.pm
-    version: 1.00
+    version: 1.01
   CGI::Office::Contacts::Donations::Controller::Donations:
     file: lib/CGI/Office/Contacts/Donations/Controller/Donations.pm
-    version: 1.00
+    version: 1.01
   CGI::Office::Contacts::Donations::Controller::Initialize:
     file: lib/CGI/Office/Contacts/Donations/Controller/Initialize.pm
-    version: 1.00
+    version: 1.01
   CGI::Office::Contacts::Donations::Controller::Notes:
     file: lib/CGI/Office/Contacts/Donations/Controller/Notes.pm
-    version: 1.00
+    version: 1.01
   CGI::Office::Contacts::Donations::Controller::Organization:
     file: lib/CGI/Office/Contacts/Donations/Controller/Organization.pm
-    version: 1.00
+    version: 1.01
   CGI::Office::Contacts::Donations::Controller::Person:
     file: lib/CGI/Office/Contacts/Donations/Controller/Person.pm
-    version: 1.00
+    version: 1.01
   CGI::Office::Contacts::Donations::Controller::Report:
     file: lib/CGI/Office/Contacts/Donations/Controller/Report.pm
-    version: 1.00
+    version: 1.01
   CGI::Office::Contacts::Donations::Controller::Search:
     file: lib/CGI/Office/Contacts/Donations/Controller/Search.pm
-    version: 1.00
+    version: 1.01
   CGI::Office::Contacts::Donations::Database:
     file: lib/CGI/Office/Contacts/Donations/Database.pm
-    version: 1.00
+    version: 1.01
   CGI::Office::Contacts::Donations::Database::Donations:
     file: lib/CGI/Office/Contacts/Donations/Database/Donations.pm
-    version: 1.00
+    version: 1.01
   CGI::Office::Contacts::Donations::Database::Util:
     file: lib/CGI/Office/Contacts/Donations/Database/Util.pm
-    version: 1.00
+    version: 1.01
   CGI::Office::Contacts::Donations::Util::Config:
     file: lib/CGI/Office/Contacts/Donations/Util/Config.pm
-    version: 1.00
+    version: 1.01
   CGI::Office::Contacts::Donations::Util::Create:
     file: lib/CGI/Office/Contacts/Donations/Util/Create.pm
-    version: 1.00
+    version: 1.01
   CGI::Office::Contacts::Donations::Util::Validator:
     file: lib/CGI/Office/Contacts/Donations/Util/Validator.pm
-    version: 1.00
+    version: 1.01
   CGI::Office::Contacts::Donations::View:
     file: lib/CGI/Office/Contacts/Donations/View.pm
-    version: 1.00
+    version: 1.01
   CGI::Office::Contacts::Donations::View::Donations:
     file: lib/CGI/Office/Contacts/Donations/View/Donations.pm
-    version: 1.00
+    version: 1.01
   CGI::Office::Contacts::Donations::View::Report:
     file: lib/CGI/Office/Contacts/Donations/View/Report.pm
-    version: 1.00
+    version: 1.01
   CGI::Office::Contacts::Donations::View::Role::Report:
     file: lib/CGI/Office/Contacts/Donations/View/Role/Report.pm
-    version: 1.00
+    version: 1.01
 requires:
   CGI::Office::Contacts: 0
   Scalar::Util: 0
 resources:
   license: http://opensource.org/licenses/artistic-license.php
-version: 1.00
+version: 1.01
